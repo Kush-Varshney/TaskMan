@@ -47,7 +47,7 @@ TaskMan is designed for individuals and teams to manage tasks efficiently. It su
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/TaskMan.git
+git clone https://github.com/Kush-Varshney/TaskMan.git
 cd TaskMan
 
 # Backend
